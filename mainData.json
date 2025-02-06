@@ -2,12 +2,71 @@
     {
       "name": "1THA",
       "title": "Klasa 1THA",
-      "teacher": "E.Nowak"
+      "teacher": "E.Gościak"
     },
     {
       "name": "1TPE",
       "title": "Klasa 1TPE",
-      "teacher": "M.Kowal"
+      "teacher": "M.Wiśniewska-Lupa"
+    },
+    {
+        "name": "2TE",
+        "title": "Klasa 2TE",
+        "teacher": "J.Walczak"
+    },
+    {
+        "name": "2THA",
+        "title": "Klasa 2THA",
+        "teacher": "G.Wojnarowicz"
+    },
+    {
+        "name": "2TP",
+        "title": "Klasa 2TP",
+        "teacher": "A.Rybka"
+    },
+    {
+        "name": "3TA",
+        "title": "Klasa 3TA",
+        "teacher": "M.Stochła"
+    },
+    {
+        "name": "3TE",
+        "title": "Klasa 3TE",
+        "teacher": "R.Matwijec"
+    },
+    {
+        "name": "3TH",
+        "title": "Klasa 3TH",
+        "teacher": "J.Gierlach"
+    },
+    {
+        "name": "3TPa",
+        "title": "Klasa 3TPa",
+        "teacher": "B.Damaszko"
+    },
+    {
+        "name": "3TPb",
+        "title": "Klasa 3TPb",
+        "teacher": "K.Ryznar"
+    },
+    {
+        "name": "4TEP",
+        "title": "Klasa 4TEP",
+        "teacher": "Z.Grochala"
+    },
+    {
+        "name": "4THA",
+        "title": "Klasa 4THA",
+        "teacher": "M.Pich"
+    },
+    {
+        "name": "5TEP",
+        "title": "Klasa 5TEP",
+        "teacher": "E.Radochońska-Wasiewicz"
+    },
+    {
+        "name": "5THA",
+        "title": "Klasa 5THA",
+        "teacher": "M.Wantuch"
     }
 ]
-  
