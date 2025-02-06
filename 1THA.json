@@ -30,8 +30,6 @@
       ],
       "Czwartek": [
         { 
-            "lesson": "Math",
-            "room": "101",
             "groups" : [
                 {"group": "1", "lesson": "English", "room": "101"},
                 {"group": "2", "lesson": "Polish", "room": "101"},
