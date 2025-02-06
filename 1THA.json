@@ -1,0 +1,19 @@
+{
+    "className": "1THA",
+    "teacher": "E.Nowak",
+    "timetable": {
+      "Monday": [
+        { "lesson": "Math", "room": "101" },
+        { "lesson": "English", "room": "202" },
+        { "lesson": "Physics", "room": "303" },
+        { "lesson": "PE", "room": "Gym" }
+      ],
+      "Tuesday": [
+        { "lesson": "History", "room": "102" },
+        { "lesson": "Biology", "room": "203" },
+        { "lesson": "Geography", "room": "304" },
+        { "lesson": "Chemistry", "room": "Lab1" }
+      ]
+    }
+  }
+  
