@@ -13,6 +13,24 @@
         { "lesson": "Biology", "room": "203" },
         { "lesson": "Geography", "room": "304" },
         { "lesson": "Chemistry", "room": "Lab1" }
+      ],
+      "Wednesday": [
+        { "lesson": "History", "room": "102" },
+        { "lesson": "Biology", "room": "203" },
+        { "lesson": "Geography", "room": "304" },
+        { "lesson": "Chemistry", "room": "Lab1" }
+      ],
+      "Thursday": [
+        { "lesson": "History", "room": "102" },
+        { "lesson": "Biology", "room": "203" },
+        { "lesson": "Geography", "room": "304" },
+        { "lesson": "Chemistry", "room": "Lab1" }
+      ],
+      "Friday": [
+        { "lesson": "History", "room": "102" },
+        { "lesson": "Biology", "room": "203" },
+        { "lesson": "Geography", "room": "304" },
+        { "lesson": "Chemistry", "room": "Lab1" }
       ]
     }
   }
