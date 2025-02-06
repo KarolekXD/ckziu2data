@@ -3,7 +3,15 @@
     "teacher": "E.Nowak",
     "timetable": {
       "Poniedziałek": [
-        { "lesson": "Math", "room": "101" },
+        { 
+            "lesson": "Math",
+            "room": "101",
+            "groups" : [
+                {"group": "1", "lesson": "English", "room": "101"},
+                {"group": "2", "lesson": "Polish", "room": "101"},
+                {"group": "3", "lesson": "Math", "room": "101"}
+            ]
+        },
         { "lesson": "English", "room": "202" },
         { "lesson": "Physics", "room": "303" },
         { "lesson": "PE", "room": "Gym" }
