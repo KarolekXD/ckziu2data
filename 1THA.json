@@ -29,7 +29,15 @@
         { "lesson": "Chemistry", "room": "Lab1" }
       ],
       "Czwartek": [
-        { "lesson": "History", "room": "102" },
+        { 
+            "lesson": "Math",
+            "room": "101",
+            "groups" : [
+                {"group": "1", "lesson": "English", "room": "101"},
+                {"group": "2", "lesson": "Polish", "room": "101"},
+                {"group": "3", "lesson": "Math", "room": "101"}
+            ]
+        },
         { "lesson": "Biology", "room": "203" },
         { "lesson": "Geography", "room": "304" },
         { "lesson": "Chemistry", "room": "Lab1" }
